@@ -1,0 +1,25 @@
+body{
+    background-color: lightpink;
+    color: goldenrod;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: 'Montagu Slab', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+    background-color: pink;
+    color: yellow;
+    text-shadow: 1px;
+}
+.name_of_objects, #result_objects_name, #result_objects_accuracy{
+    color:deeppink;
+    font-family: 'Montagu Slab', serif;
+    font-size: larger;
+}
+#camera{
+    border: 2px ridge darkcyan;
+    width: 350px;
+    height: 300px;
+}
